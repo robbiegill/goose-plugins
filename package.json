@@ -1,0 +1,27 @@
+{
+  "name": "goose-plugins",
+  "version": "0.0.1",
+  "description": "various plugins for mongoose ",
+  "main": "index.js",
+  "scripts": {
+    "test": "grunt test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/robbiegill/goose-plugins.git"
+  },
+  "keywords": [
+    "mongoose",
+    "plugin"
+  ],
+  "author": "Robbie Gill",
+  "license": "BSD",
+  "readmeFilename": "README.md",
+  "gitHead": "5fba5df7dee0813271c0a54bcb977418a09f42c9",
+  "devDependencies": {
+    "grunt": "~0.4.0",
+    "grunt-jasmine-node": "*",
+    "jasmine-node": "*",
+    "mongoose": "*"
+  }
+}
