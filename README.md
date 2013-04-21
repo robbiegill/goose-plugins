@@ -1,4 +1,4 @@
-# goose-plugins
+# goose-plugins [![Build Status](https://travis-ci.org/robbiegill/goose-plugins.png?branch=master)](https://travis-ci.org/robbiegill/goose-plugins)
 
 Simple Plugins for Mongoose (v0.0.1)
 
